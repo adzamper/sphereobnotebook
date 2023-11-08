@@ -1,0 +1,10 @@
+name: em-notebooks-environment
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
